@@ -1,0 +1,20 @@
+Fitter Status : Successful - Wed Mar 02 14:29:35 2022
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Standard Edition
+Revision Name : costas
+Top-level Entity Name : costas
+Family : Cyclone V
+Device : 5CSEBA6U23I7
+Timing Models : Final
+Logic utilization (in ALMs) : 1,106 / 41,910 ( 3 % )
+Total registers : 2662
+Total pins : 52 / 314 ( 17 % )
+Total virtual pins : 0
+Total block memory bits : 581,632 / 5,662,720 ( 10 % )
+Total RAM Blocks : 71 / 553 ( 13 % )
+Total DSP Blocks : 68 / 112 ( 61 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 6 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )

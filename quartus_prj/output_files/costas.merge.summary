@@ -1,0 +1,17 @@
+Partition Merge Status : Successful - Wed Mar 02 14:28:04 2022
+Quartus Prime Version : 16.0.0 Build 211 04/27/2016 SJ Standard Edition
+Revision Name : costas
+Top-level Entity Name : costas
+Family : Cyclone V
+Logic utilization (in ALMs) : N/A
+Total registers : 5492
+Total pins : 52
+Total virtual pins : 0
+Total block memory bits : 581,632
+Total DSP Blocks : 68
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0
+Total DLLs : 0

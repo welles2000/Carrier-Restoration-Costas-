@@ -1,0 +1,820 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/simulation/modelsim
+T_opt
+!s110 1646139301
+VWFc8Hk_eFO0l^;mL@bYPz1
+Z1 04 9 4 work tb_costas fast 0
+=4-98fa9b7726e4-621e17a5-5c-4998
+Z2 o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work -L FIR_lpf -L nco_ii_0 +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;10.5;63
+R0
+T_opt1
+Z5 !s110 1646180310
+VDWZ@C2_L041=EI7Loi4D72
+R1
+=1-98fa9b7726e4-621eb7d6-14e-49c0
+R2
+R3
+n@_opt1
+R4
+vadd
+Z6 !s110 1646180306
+!i10b 1
+!s100 GgeWk<JEbn9ILa6:2IK_A3
+In=@X2W61SCZ6z`L`=VBZ92
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1645803960
+8D:/FPGAFiRe/FPGAprojects/costas/rtl/add.v
+FD:/FPGAFiRe/FPGAprojects/costas/rtl/add.v
+L0 1
+Z8 OL;L;10.5;63
+r1
+!s85 0
+31
+Z9 !s108 1646180306.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/rtl/add.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/rtl|D:/FPGAFiRe/FPGAprojects/costas/rtl/add.v|
+!i113 0
+Z10 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 !s92 -vlog01compat -work work +incdir+D:/FPGAFiRe/FPGAprojects/costas/rtl -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+valtera_avalon_sc_fifo
+Z12 !s110 1646180305
+!i10b 1
+!s100 4mK@em][G=j]om3zJIhOc0
+IgEzk4hBF6VO5o0O=PoKJd3
+R7
+R0
+Z13 w1645878564
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/altera_avalon_sc_fifo.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/altera_avalon_sc_fifo.v
+L0 21
+R8
+r1
+!s85 0
+31
+Z14 !s108 1646180305.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/altera_avalon_sc_fifo.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/altera_avalon_sc_fifo.v|
+!i113 0
+Z15 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+Eauk_dspip_avalon_streaming_controller_hpfir
+R13
+Z16 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z17 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z18 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z19 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_controller_hpfir.vhd
+Z20 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_controller_hpfir.vhd
+l0
+L41
+VmzLKcb3?XGg7F;Pc`g^U30
+!s100 ORMaER9G]`b[YkFGoXo<C3
+Z21 OL;C;10.5;63
+32
+Z22 !s110 1646180304
+!i10b 1
+Z23 !s108 1646180304.000000
+Z24 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_controller_hpfir.vhd|
+Z25 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_controller_hpfir.vhd|
+!i113 0
+Z26 tExplicit 1 CvgOpt 0
+Astruct
+R16
+R17
+R18
+DEx4 work 43 auk_dspip_avalon_streaming_controller_hpfir 0 22 mzLKcb3?XGg7F;Pc`g^U30
+l72
+L64
+V5[9N9aCPWceEVmzW7?haR3
+!s100 MWO51>Fz`WN=CIY16D1gH2
+R21
+32
+R22
+!i10b 1
+R23
+R24
+R25
+!i113 0
+R26
+Eauk_dspip_avalon_streaming_sink_hpfir
+R13
+Z27 DPx9 altera_mf 20 altera_mf_components 0 22 3;K7WJMRbHV=m@KoGWEA63
+Z28 DPx4 work 24 auk_dspip_math_pkg_hpfir 0 22 SMh<mnKIT3f?e`UL8YAf30
+Z29 DPx4 work 23 auk_dspip_lib_pkg_hpfir 0 22 ]n@P0Cg`Kmfb@EQ`hbJ3C2
+Z30 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R17
+R18
+R0
+Z31 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_sink_hpfir.vhd
+Z32 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_sink_hpfir.vhd
+l0
+L56
+Vc3aP]jD`FWLDmMbL02M?71
+!s100 0WO5KznO2MM4IEKTLL4ea1
+R21
+32
+R12
+!i10b 1
+R14
+Z33 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_sink_hpfir.vhd|
+Z34 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_sink_hpfir.vhd|
+!i113 0
+R26
+Artl
+R27
+R28
+R29
+R30
+R17
+R18
+DEx4 work 37 auk_dspip_avalon_streaming_sink_hpfir 0 22 c3aP]jD`FWLDmMbL02M?71
+l164
+L106
+V>JXTP:[nnkgAK4J09X0Y10
+!s100 aKlIFR2DezO>78LXQeZZW1
+R21
+32
+R12
+!i10b 1
+R14
+R33
+R34
+!i113 0
+R26
+Eauk_dspip_avalon_streaming_source_hpfir
+R13
+R28
+R27
+R30
+R17
+R18
+R0
+Z35 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_source_hpfir.vhd
+Z36 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_source_hpfir.vhd
+l0
+L70
+Vh0^KLKk9RPWE9FkPV688a0
+!s100 z_E>RhDjTK@iSkAe6<CzM1
+R21
+32
+R12
+!i10b 1
+R14
+Z37 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_source_hpfir.vhd|
+Z38 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_avalon_streaming_source_hpfir.vhd|
+!i113 0
+R26
+Artl
+R28
+R27
+R30
+R17
+R18
+DEx4 work 39 auk_dspip_avalon_streaming_source_hpfir 0 22 h0^KLKk9RPWE9FkPV688a0
+l190
+L109
+Vam1ie5h2KMKXT`jCDKfMG0
+!s100 9_^:d_>A;JGb2ekO`XAiL1
+R21
+32
+R12
+!i10b 1
+R14
+R37
+R38
+!i113 0
+R26
+Pauk_dspip_lib_pkg_hpfir
+R28
+R30
+R17
+R18
+R13
+R0
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_lib_pkg_hpfir.vhd
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_lib_pkg_hpfir.vhd
+l0
+L22
+V]n@P0Cg`Kmfb@EQ`hbJ3C2
+!s100 f?>LI6^Y:?0:4C>aOS6?X2
+R21
+32
+R22
+!i10b 1
+R23
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_lib_pkg_hpfir.vhd|
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_lib_pkg_hpfir.vhd|
+!i113 0
+R26
+Pauk_dspip_math_pkg_hpfir
+R30
+R17
+R18
+R13
+R0
+Z39 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_math_pkg_hpfir.vhd
+Z40 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_math_pkg_hpfir.vhd
+l0
+L54
+VSMh<mnKIT3f?e`UL8YAf30
+!s100 @O6TWU38[<`Y=f_oja2am1
+R21
+32
+b1
+R22
+!i10b 1
+R23
+Z41 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_math_pkg_hpfir.vhd|
+Z42 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_math_pkg_hpfir.vhd|
+!i113 0
+R26
+Bbody
+R28
+R30
+R17
+R18
+l0
+L131
+V`OCm?;Q96zD:4j0=aCH`Y0
+!s100 EDZNSThdcYV1lkL7HbnIz0
+R21
+32
+R22
+!i10b 1
+R23
+R41
+R42
+!i113 0
+R26
+Eauk_dspip_roundsat_hpfir
+R13
+R30
+R17
+R18
+R0
+Z43 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_roundsat_hpfir.vhd
+Z44 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_roundsat_hpfir.vhd
+l0
+L39
+VL8Q=Q6XfD:5e:WVJZ6k@E3
+!s100 S`Ha]KjQXV0CDDgljgCX;0
+R21
+32
+R12
+!i10b 1
+R14
+Z45 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_roundsat_hpfir.vhd|
+Z46 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/auk_dspip_roundsat_hpfir.vhd|
+!i113 0
+R26
+Abeh
+R30
+R17
+R18
+DEx4 work 24 auk_dspip_roundsat_hpfir 0 22 L8Q=Q6XfD:5e:WVJZ6k@E3
+l66
+L57
+Va<FU3bo7Iz2RgbS_<XQf52
+!s100 SAz6VWg0=:KiPPFk<lih43
+R21
+32
+R12
+!i10b 1
+R14
+R45
+R46
+!i113 0
+R26
+vbpsk
+Z47 !s110 1646180307
+!i10b 1
+!s100 f^8V_hMZ6?ZK`OJ@G3Mb[2
+I:W]7mZYYUzV8kochQ0Y[L2
+R7
+R0
+w1646179632
+8D:/FPGAFiRe/FPGAprojects/costas/rtl/bpsk.v
+FD:/FPGAFiRe/FPGAprojects/costas/rtl/bpsk.v
+L0 1
+R8
+r1
+!s85 0
+31
+Z48 !s108 1646180307.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/rtl/bpsk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/rtl|D:/FPGAFiRe/FPGAprojects/costas/rtl/bpsk.v|
+!i113 0
+R10
+R11
+R3
+vcostas
+R47
+!i10b 1
+!s100 cQAA@XMVPZj6TUfiHjkO42
+IAE9dUJf_ONYhENcO7YHRY1
+R7
+R0
+w1646157949
+8D:/FPGAFiRe/FPGAprojects/costas/rtl/costas.v
+FD:/FPGAFiRe/FPGAprojects/costas/rtl/costas.v
+L0 1
+R8
+r1
+!s85 0
+31
+R48
+!s107 D:/FPGAFiRe/FPGAprojects/costas/rtl/costas.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/rtl|D:/FPGAFiRe/FPGAprojects/costas/rtl/costas.v|
+!i113 0
+R10
+R11
+R3
+Edspba_delay
+R13
+Z49 DPx4 work 21 dspba_library_package 0 22 fYkAYAo1R93H>N5=5L^P51
+R17
+R18
+R0
+Z50 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/dspba_library.vhd
+Z51 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/dspba_library.vhd
+l0
+L17
+VXEzL4EI6QF7B:S[W1R0o23
+!s100 ^TiG3k=nd2oZ:zDO86VNb1
+R21
+32
+R22
+!i10b 1
+R23
+Z52 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/dspba_library.vhd|
+Z53 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/dspba_library.vhd|
+!i113 0
+R26
+Adelay
+R49
+R17
+R18
+DEx4 work 11 dspba_delay 0 22 XEzL4EI6QF7B:S[W1R0o23
+l36
+L33
+V[^=SMA?O`7jZ;ZXRnE>4m3
+!s100 j]g:M?2k]LeVG21D9S<fR1
+R21
+32
+R22
+!i10b 1
+R23
+R52
+R53
+!i113 0
+R26
+Pdspba_library_package
+R17
+R18
+R13
+R0
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/dspba_library_package.vhd
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/dspba_library_package.vhd
+l0
+L16
+VfYkAYAo1R93H>N5=5L^P51
+!s100 Kkg3D5QbeHdNM2YFz@ZF=2
+R21
+32
+R22
+!i10b 1
+R23
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/dspba_library_package.vhd|
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/dspba_library_package.vhd|
+!i113 0
+R26
+Edspba_sync_reg
+R13
+R49
+R30
+R17
+R18
+R0
+R50
+R51
+l0
+L91
+VH>a0>37FX60ROQYLIa?n82
+!s100 LBWk;n`f_bk?X_QJICA5i3
+R21
+32
+R22
+!i10b 1
+R23
+R52
+R53
+!i113 0
+R26
+Async_reg
+R49
+R30
+R17
+R18
+DEx4 work 14 dspba_sync_reg 0 22 H>a0>37FX60ROQYLIa?n82
+l134
+L115
+VXVNkaamGCJ=?DXE@F=CiA3
+!s100 EMlEXT<EU621V40LT:5fK3
+R21
+32
+R22
+!i10b 1
+R23
+R52
+R53
+!i113 0
+R26
+Efir_lpf
+R13
+R28
+R30
+R29
+R17
+R18
+R0
+Z54 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf.vhd
+Z55 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf.vhd
+l0
+L19
+V;95?:FFm:aWK6GLhI1]e60
+!s100 EUBlDRQ94ldRD3=HQAh4M2
+R21
+32
+R6
+!i10b 1
+R9
+Z56 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf.vhd|
+Z57 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf.vhd|
+!i113 0
+R26
+Asyn
+R28
+R30
+R29
+R17
+R18
+Z58 DEx4 work 7 fir_lpf 0 22 ;95?:FFm:aWK6GLhI1]e60
+l56
+L33
+V<THSkffBFlF<]8Z@UjHgj1
+!s100 ;`SVaG3oR6T]_z[<XJWeb0
+R21
+32
+R6
+!i10b 1
+R9
+R56
+R57
+!i113 0
+R26
+Efir_lpf_ast
+R13
+R28
+R29
+R30
+R17
+R18
+R0
+Z59 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_ast.vhd
+Z60 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_ast.vhd
+l0
+L9
+VPoad7>bf3Ak7ldI9FQb3L1
+!s100 QQnb>^=3c6G<=;1i[=QVz3
+R21
+32
+R12
+!i10b 1
+R14
+Z61 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_ast.vhd|
+Z62 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_ast.vhd|
+!i113 0
+R26
+Astruct
+R28
+R29
+R30
+R17
+R18
+DEx4 work 11 fir_lpf_ast 0 22 Poad7>bf3Ak7ldI9FQb3L1
+l88
+L55
+VQLPddHCF1L1CR3iHd96[@3
+!s100 OmO9HUB[SW`hFHWOEYbS?1
+R21
+32
+R12
+!i10b 1
+R14
+R61
+R62
+!i113 0
+R26
+Efir_lpf_rtl_core
+R13
+Z63 DPx3 lpm 14 lpm_components 0 22 MQaJVKl6c9@C2XO9DaM[F2
+Z64 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 Q8oXZImWRzl6U]jgSjZZb3
+R27
+R49
+Z65 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+R30
+R17
+R18
+R0
+Z66 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_rtl_core.vhd
+Z67 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_rtl_core.vhd
+l0
+L36
+V@J6U]3QlOlVOBB7Xg[XY91
+!s100 38a5SNaPc;Kh4HUk1Ddkm0
+R21
+32
+R12
+!i10b 1
+R14
+Z68 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_rtl_core.vhd|
+Z69 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_rtl_core.vhd|
+!i113 0
+R26
+Anormal
+R63
+R64
+R27
+R49
+R65
+R30
+R17
+R18
+DEx4 work 16 fir_lpf_rtl_core 0 22 @J6U]3QlOlVOBB7Xg[XY91
+l370
+L49
+VilNSJ`j5>^OUNYlAILN;13
+!s100 4lmfjlUfe5V8`azok?j^D2
+R21
+32
+R12
+!i10b 1
+R14
+R68
+R69
+!i113 0
+R26
+Efir_lpf_tb
+R13
+R30
+R17
+R18
+R0
+Z70 8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_tb.vhd
+Z71 FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_tb.vhd
+l0
+L20
+VSKRj=LM75LKXSleflNYZ?1
+!s100 187ECL1hIRLAKl[TeA_id2
+R21
+32
+R6
+!i10b 1
+R9
+Z72 !s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_tb.vhd|
+Z73 !s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/FIR_lpf/FIR_lpf_sim/FIR_lpf_tb.vhd|
+!i113 0
+R26
+Artl
+R28
+R29
+R58
+R30
+R17
+R18
+DEx4 work 10 fir_lpf_tb 0 22 SKRj=LM75LKXSleflNYZ?1
+l140
+L54
+VdgQ4mz[]JhhojT>WFz6HH2
+!s100 GLl@[k5A74fFWi?nJHeRO1
+R21
+32
+R6
+!i10b 1
+R9
+R72
+R73
+!i113 0
+R26
+vkey_filter
+R6
+!i10b 1
+!s100 3U0C?cV5eLK2CiQ09CDgn0
+I2<LWD`Yc8?Ok952[j4a_B3
+R7
+R0
+w1643022769
+8D:/FPGAFiRe/FPGAprojects/costas/rtl/key_filter.v
+FD:/FPGAFiRe/FPGAprojects/costas/rtl/key_filter.v
+L0 1
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/FPGAFiRe/FPGAprojects/costas/rtl/key_filter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/rtl|D:/FPGAFiRe/FPGAprojects/costas/rtl/key_filter.v|
+!i113 0
+R10
+R11
+R3
+vLoopFilter
+R47
+!i10b 1
+!s100 Lj[Ul8eB9iYbng=Bjb<kG1
+I9iN_THUTRga_T]M`e=3aY2
+R7
+R0
+w1646153624
+8D:/FPGAFiRe/FPGAprojects/costas/rtl/LoopFilter.v
+FD:/FPGAFiRe/FPGAprojects/costas/rtl/LoopFilter.v
+L0 1
+R8
+r1
+!s85 0
+31
+R48
+!s107 D:/FPGAFiRe/FPGAprojects/costas/rtl/LoopFilter.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/rtl|D:/FPGAFiRe/FPGAprojects/costas/rtl/LoopFilter.v|
+!i113 0
+R10
+R11
+R3
+n@loop@filter
+vmul
+R47
+!i10b 1
+!s100 eaP4;zdP2f_C_L3?M@GcI1
+IOJBLf3QQRd_WQ^=MPVE^?0
+R7
+R0
+w1645878444
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/mul/mul.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/mul/mul.v
+L0 40
+R8
+r1
+!s85 0
+31
+R48
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/mul/mul.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/mul|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/mul/mul.v|
+!i113 0
+R10
+!s92 -vlog01compat -work work +incdir+D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/mul -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vmult_2jq
+!s110 1646180308
+!i10b 1
+!s100 2M@b6H>oOl<24ZZO53Sd43
+ITb0591Z^aH_kXF4[SNDVm1
+R7
+R0
+w1645878940
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/db/mult_2jq.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/db/mult_2jq.v
+L0 29
+R8
+r1
+!s85 0
+31
+!s108 1646180308.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/db/mult_2jq.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/db|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/db/mult_2jq.v|
+!i113 0
+R10
+!s92 -vlog01compat -work work +incdir+D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/db -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vNCO
+R22
+!i10b 1
+!s100 I25o`[23QhjjA=3n=Y3^Y2
+IE9lJC@[44QU^C_We_gnAU2
+R7
+R0
+w1646151855
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/NCO.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/NCO.v
+L0 6
+R8
+r1
+!s85 0
+31
+R23
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/NCO.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/NCO.v|
+!i113 0
+R15
+R3
+n@n@c@o
+vphase_detect
+R47
+!i10b 1
+!s100 mIM25Q=`YzjCBZLUZSGAi3
+IaR58C6Z@C;4B?o1E^hzAl2
+R7
+R0
+w1646153055
+8D:/FPGAFiRe/FPGAprojects/costas/rtl/phase_detect.v
+FD:/FPGAFiRe/FPGAprojects/costas/rtl/phase_detect.v
+L0 1
+R8
+r1
+!s85 0
+31
+R48
+!s107 D:/FPGAFiRe/FPGAprojects/costas/rtl/phase_detect.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/rtl|D:/FPGAFiRe/FPGAprojects/costas/rtl/phase_detect.v|
+!i113 0
+R10
+R11
+R3
+vrandom_seq
+R47
+!i10b 1
+!s100 Wk@`W:WbN15iD7AmT1=ZL3
+IBH^62;HQGKPS7OMeSfJOn1
+R7
+R0
+w1644770955
+8D:/FPGAFiRe/FPGAprojects/costas/rtl/random_seq.v
+FD:/FPGAFiRe/FPGAprojects/costas/rtl/random_seq.v
+L0 1
+R8
+r1
+!s85 0
+31
+R48
+!s107 D:/FPGAFiRe/FPGAprojects/costas/rtl/random_seq.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/rtl|D:/FPGAFiRe/FPGAprojects/costas/rtl/random_seq.v|
+!i113 0
+R10
+R11
+R3
+vtb_bpsk
+R47
+!i10b 1
+!s100 9E9]E[YM1fN>R_fo5kW1Q0
+I@@oh8WiZRLMA9EIk=DY4l3
+R7
+R0
+w1645878339
+8D:/FPGAFiRe/FPGAprojects/costas/sim/tb_bpsk.v
+FD:/FPGAFiRe/FPGAprojects/costas/sim/tb_bpsk.v
+L0 3
+R8
+r1
+!s85 0
+31
+R9
+!s107 D:/FPGAFiRe/FPGAprojects/costas/sim/tb_bpsk.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/sim|D:/FPGAFiRe/FPGAprojects/costas/sim/tb_bpsk.v|
+!i113 0
+R10
+!s92 -vlog01compat -work work +incdir+D:/FPGAFiRe/FPGAprojects/costas/sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vtb_costas
+R5
+!i10b 1
+!s100 0zT__5JkRJJB01:0Kb[6m0
+IC<[HG`N6V0JIad3dmGIzk0
+R7
+R0
+w1646156910
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/../sim/tb_costas.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/../sim/tb_costas.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1646180309.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/../sim/tb_costas.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/../sim|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/../sim/tb_costas.v|
+!i113 0
+R10
+!s92 -vlog01compat -work work +incdir+D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/../sim -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3

@@ -1,0 +1,354 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/simulation/modelsim
+v+PLNBNYKmPxVlys+R8ytOw==
+Z1 !s110 1646180301
+!i10b 0
+!s100 J^Y>K7J3Zf3T97WF<E;RH0
+IiLh<kBdoUY2^7YJV=HSDE2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!i8a 1585773152
+R0
+Z3 w1646180301
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_altqmcpipe.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_altqmcpipe.v
+Z4 L0 38
+Z5 OL;L;10.5;63
+r1
+!s85 0
+31
+Z6 !s108 1646180300.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_altqmcpipe.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_altqmcpipe.v|-work|nco_ii_0|
+!i113 0
+Z7 o-work nco_ii_0 -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z8 tCvgOpt 0
+ne3ff555
+vHTwiAacg6+ayo1f7jDGBNA==
+Z9 !s110 1646180303
+!i10b 0
+!s100 [KYP4kGZDd6g^@WNSjEBm2
+I_k`]MXH]Q;4=>lf81d93K0
+R2
+!i8a 1333785328
+R0
+Z10 w1646180303
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_dxx.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_dxx.v
+R4
+R5
+r1
+!s85 0
+31
+Z11 !s108 1646180303.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_dxx.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_dxx.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+n8a05b98
+vFFr9cOGmEGbTU1i8rSBI+g==
+Z12 !s110 1646180300
+!i10b 0
+!s100 oj<XKHMlTK<[T;4KHlbef1
+IlRDD=@P2RM@RjVhRaK@0g3
+R2
+!i8a 2036894640
+R0
+Z13 w1646180300
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_dxx_g.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_dxx_g.v
+R4
+R5
+r1
+!s85 0
+31
+Z14 !s108 1646180299.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_dxx_g.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_dxx_g.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+n5b96f7
+vXN8Hd0luqR+yp47TImr7PQ==
+Z15 !s110 1646180299
+!i10b 0
+!s100 WG71_4Kz3?UHECzC>lngQ3
+ILbVl0;QhDOzVFl`me859?1
+R2
+!i8a 1764593104
+R0
+Z16 w1646180299
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_gar.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_gar.v
+R4
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_gar.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_gar.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+n8a05de2
+vkA18NhMIgj4pHCZNLnJ3gQ==
+R15
+!i10b 0
+!s100 onReWXU4TGiE=QkGJeThN1
+I@C>WM^CF2YcF1UNbJPiRz2
+R2
+!i8a 1047298400
+R0
+R16
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_apr_dxx.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_apr_dxx.v
+R4
+R5
+r1
+!s85 0
+31
+R14
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_apr_dxx.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_apr_dxx.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+n8135608
+vnriNTSstnR7fjH8voQCbaFGZpTQ54MYTSRXMEdlyORg=
+R12
+!i10b 0
+!s100 TTR7^l6W?C`JE^gng8G1F1
+IR_EQX]EFLW<JPLFAb80743
+R2
+!i8a 245071920
+R0
+R13
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_as_m_cen.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_as_m_cen.v
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_as_m_cen.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_as_m_cen.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+nf13863e
+vNKSeNEHH2ikzDONVCw3O3g==
+Z17 !s110 1646180298
+!i10b 0
+!s100 3b0Ed@M;XGl9FU=53W3MS0
+In;TLKbzm;MZe6GK:eKN[H2
+R2
+!i8a 1695670784
+R0
+Z18 w1646180298
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_fxx.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_fxx.v
+R4
+R5
+r1
+!s85 0
+31
+Z19 !s108 1646180298.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_fxx.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_fxx.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+n50dfd98
+v8H0ac1WmY9h38A3CNNohPA==
+R1
+!i10b 0
+!s100 MT4o@nFI74FkN4`<]Qmk71
+IGUA?09HeaIknk9NVN=RIM2
+R2
+!i8a 893053264
+R0
+R3
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_isdr.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_isdr.v
+R4
+R5
+r1
+!s85 0
+31
+Z20 !s108 1646180301.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_isdr.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_isdr.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+ne00fe2
+vsxofeYSK+YlvCtRcn4VaCQ==
+R1
+!i10b 0
+!s100 3_XbFABceeSWMc[XhdjUi0
+I76ZQJiSC;^@TXMn^8kU1h3
+R2
+!i8a 514003808
+R0
+R3
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_mob_rw.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_mob_rw.v
+R4
+R5
+r1
+!s85 0
+31
+R20
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_mob_rw.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_mob_rw.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+n433677
+vH9NNA0w9xPgHrvU0lwcK0g==
+Z21 !s110 1646180302
+!i10b 0
+!s100 4aXkLn1h_jILAzoTIh76P1
+I`:WR7H:bJB4NSFFzH:lX?2
+R2
+!i8a 189464272
+R0
+Z22 w1646180302
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_pxx.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_pxx.v
+R4
+R5
+r1
+!s85 0
+31
+Z23 !s108 1646180302.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_pxx.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_nco_pxx.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+n50dc798
+v65O8x3OSC2usi7quwUP1SQ==
+R9
+!i10b 0
+!s100 ^0M6Tb1AmK<:1IRTCh3D<3
+IB0fYmAzejaD[BQfSNBC@32
+R2
+!i8a 198118016
+R0
+R10
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_xnqg.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_xnqg.v
+R4
+R5
+r1
+!s85 0
+31
+R11
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_xnqg.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/asj_xnqg.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+na06f3f7
+vNCO_nco_ii_0
+!s110 1646180304
+!i10b 1
+!s100 ;m2oOnNE=JSSogBeI`c6`2
+I?ZG4C3TZZbaYVDY6@>B?g2
+R2
+R0
+w1646151856
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/NCO_nco_ii_0.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/NCO_nco_ii_0.v
+L0 23
+R5
+r1
+!s85 0
+31
+!s108 1646180304.000000
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/NCO_nco_ii_0.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/NCO_nco_ii_0.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+n@n@c@o_nco_ii_0
+vPdUpjMkg82cV2wgRUwa9Uw==
+R21
+!i10b 0
+!s100 Ngl``j<<oLWj`fPQ9?gkz0
+I;L2dT2OT5_SAjC;D_CWab3
+R2
+!i8a 387393904
+R0
+R22
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/segment_arr_tdl.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/segment_arr_tdl.v
+R4
+R5
+r1
+!s85 0
+31
+R20
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/segment_arr_tdl.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/segment_arr_tdl.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+n6ac4b4c
+v6kHu6ftC67op7SHgAj8GfQ==
+R9
+!i10b 0
+!s100 KbECcJPO@2_P7G50Ak5zB2
+InZM_2Xj`eJzdW88KEQWX>2
+R2
+!i8a 2045204832
+R0
+R10
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/segment_sel.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/segment_sel.v
+R4
+R5
+r1
+!s85 0
+31
+R23
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/segment_sel.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/segment_sel.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+nc21d78c
+vZDXjeF8gl6C0VZ5EtrLN9w==
+R17
+!i10b 0
+!s100 ^_j__0SDW6Q<AUIYnAfH70
+IZg9550U9GKWZm3]ZHgdZZ3
+R2
+!i8a 1352019328
+R0
+R18
+8D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/sid_2c_1p.v
+FD:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/sid_2c_1p.v
+R4
+R5
+r1
+!s85 0
+31
+R19
+!s107 D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/sid_2c_1p.v|
+!s90 -reportprogress|300|D:/FPGAFiRe/FPGAprojects/costas/quartus_prj/ip_core/NCO/NCO/simulation/submodules/mentor/sid_2c_1p.v|-work|nco_ii_0|
+!i113 0
+R7
+R8
+na290b70

@@ -1,0 +1,193 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "dac_clk",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[0]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[1]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[2]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[3]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[4]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[5]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[6]",
+					"strict" : false
+				},
+				{
+					"name" : "dac_data[7]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[0]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[1]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[2]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[3]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[4]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[5]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[6]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[7]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[8]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[9]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[10]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[11]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[12]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[13]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[14]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[15]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[16]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[17]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[18]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[19]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[20]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[21]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[22]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[23]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[24]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[25]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[26]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[27]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[28]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[29]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[30]",
+					"strict" : false
+				},
+				{
+					"name" : "demod_ob[31]",
+					"strict" : false
+				},
+				{
+					"name" : "sys_clk",
+					"strict" : false
+				},
+				{
+					"name" : "sys_rst_n",
+					"strict" : false
+				},
+				{
+					"name" : "key_sin_cos",
+					"strict" : false
+				},
+				{
+					"name" : "key_add",
+					"strict" : false
+				},
+				{
+					"name" : "key_sub",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
